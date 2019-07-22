@@ -1,6 +1,6 @@
-name: pydicom
+name: code
 dependencies:
   - python=3.7
   - pip:
-      - pydicom
       - flask
+      - flask-restful
